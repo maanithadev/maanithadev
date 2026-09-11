@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Maanitha Perera</h1>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-<!--
-**maanithadev/maanithadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me,
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing **BEng (Hons) in Software Engineering** at Saegis Campus
+- 🏆 Completed **HND in Software Engineering** (2025)
+- 💻 I build **scalable, full-stack digital solutions** with a product-focused mindset
+- 🤖 I love integrating **AI capabilities** into real-world apps for smoother user experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages and Tools,
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,js,cs,html,css,express,figma,git,github,materialui,mongodb,mysql,nodejs,notion,npm,postman,react,supabase,tailwind,visualstudio,vite,vscode,webstorm)]()
+
+---
+
+### Connect with me,
+
+<p>
+  <a href="https://www.linkedin.com/in/maanitha-perera/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" />
+  </a>
+  <a href="mailto:maanithabimandith@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" />
+  </a>
+</p>
