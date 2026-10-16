@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maanitha Perera</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack & Mobile App Developer from Sri Lanka</h3>
 
 ### 🚀 About Me,
 
